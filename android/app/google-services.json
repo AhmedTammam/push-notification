@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "965290554323",
+    "project_id": "pndemo-791f2",
+    "storage_bucket": "pndemo-791f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965290554323:android:27df200fd3567841a3b526",
+        "android_client_info": {
+          "package_name": "com.pndemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965290554323-b4b3uuds637lqrik37ti04t533c9nfvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMJuwsNUBn1bYiDAeECKapSglJP8kd04s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965290554323-b4b3uuds637lqrik37ti04t533c9nfvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
